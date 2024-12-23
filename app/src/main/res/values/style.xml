@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dropDownSize" parent="">
+        <item name="android:width">50dp</item>
+        <item name="android:height">20dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:background">@drawable/input_size</item>
+    </style>
+
+    <style name="BookAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/themeColor</item>
+        <item name="colorPrimaryDark">@color/themeColor</item>
+    </style>
+</resources>

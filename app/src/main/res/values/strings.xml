@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mini Project</string>
+    <string name="nameInputHint">Enter name to proceed</string>
+    <string name="createAccBtnText">Proceed</string>
+    <string name="imageDesc">image</string>
+    <string name="headingText1">Bring your laptop </string>
+    <string name="headingText2">back to life</string>
+    <string name="introTextLine1">Welcome to TechFix Online – your go-to solution for fast,</string>
+    <string name="introTextLine2">reliable laptop repairs. From hardware fixes to software</string>
+    <string name="introTextLine3">troubleshooting, our expert technicians ensure top-notch</string>
+    <string name="introTextLine4">service. Convenient, hassle-free, and accessible anytime,</string>
+    <string name="introTextLine5">we’re here to revive your tech!</string>
+    <string name="createAccLogo">Create Account</string>
+    <string name="inputPhoneHint">Phone Number</string>
+    <string name="inputPwdHint">Password</string>
+    <string name="bookAppHeading">Provide device details below</string>
+    <string name="emailHint">Input email address</string>
+    <string name="deviceModelHint">Input device model</string>
+    <string name="serialNumberHint">Input device serial number</string>
+    <string name="checkBoxesHeading">Attached accessories</string>
+    <string name="checkBoxCharger">Charger</string>
+    <string name="checkBoxMouse">Mouse</string>
+    <string name="checkBoxLaptopBag">Laptop bag</string>
+    <string name="checkBoxOther">Others</string>
+    <string name="commentsHint">Additional comments</string>
+    <string name="bookAppBtnText">Book Appointment</string>
+    <string name="bookAppName">Hi</string>
+    <string name="thanksInfo">Thanks</string>
+</resources>

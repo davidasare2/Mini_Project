@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageWidth">250dp</dimen>
+    <dimen name="imageHeight">200dp</dimen>
+    <dimen name="btnHeight">50dp</dimen>
+    <dimen name="btnWidth">280dp</dimen>
+    <dimen name="imageMarginTop">100dp</dimen>
+    <dimen name="btnBorderRadius">10dp</dimen>
+    <dimen name="headingTextSize">30sp</dimen>
+    <dimen name="introTextSize">15sp</dimen>
+    <dimen name="introTextLinearMargin">10dp</dimen>
+    <dimen name="inputMarginTop">10dp</dimen>
+    <dimen name="btnLinearMarginTop">5dp</dimen>
+    <dimen name="btnMargin">20dp</dimen>
+    <dimen name="btnTextSize">20sp</dimen>
+    <dimen name="btnElevation">9pt</dimen>
+    <dimen name="createAccTextSize">30sp</dimen>
+    <dimen name="createAccTextMarginSides">34.5dp</dimen>
+    <dimen name="createAccTextMarginTop">40dp</dimen>
+    <dimen name="linearLayoutMarginSides">0dp</dimen>
+    <dimen name="linearLayoutMarginTop">40dp</dimen>
+    <dimen name="inputLinearLayoutWidth">410dp</dimen>
+    <dimen name="inputLinearLayoutHeight">154dp</dimen>
+    <dimen name="inputLayoutMarginTop">20dp</dimen>
+    <dimen name="inputLayoutPadding">10dp</dimen>
+    <dimen name="inputLayoutHeight">50dp</dimen>
+    <dimen name="inputTextSize">20sp</dimen>
+    <dimen name="relativeMarginStart">15dp</dimen>
+    <dimen name="relativeMarginEnd">15dp</dimen>
+    <dimen name="relativeMarginTop">20dp</dimen>
+</resources>
